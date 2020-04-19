@@ -1,7 +1,7 @@
 PLUGIN NAME
 
 Plugin Name: PDF Embedder
-Plugin URI: https://www.github.com/franciscocervera
+Plugin URI: https://github.com/franciscocervera/PDF-Embedder
 Description: Embeds PDF files to your WordPress pages/posts using browser's default viewer.
 Version: 0.1
 Author: Francisco Cervera
